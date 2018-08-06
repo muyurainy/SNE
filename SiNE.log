@@ -1,0 +1,3078 @@
+nohup: ignoring input
+user config:
+('num_workers', 4)
+('batch_size', 80)
+('N', 0)
+('parse', <bound method DefaultConfig.parse of <config.DefaultConfig object at 0x7f7541e73190>>)
+('weight_decay', 0.0001)
+('_2st_out_features', 20)
+('split_ratio', 0.8)
+('epochs', 4000)
+('filename', './data/dataset/soc-sign-epinions.txt')
+('_1st_out_features', 20)
+('_3st_out_features', 1)
+('lr', 0.5)
+('CUDA', False)
+('model', 'SiNE')
+('dimension', 20)
+node: 131828, edges: 673097
+epoch 0, loss: [1714.8115]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.682
+epoch 1, loss: [1332.6932]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.687
+epoch 2, loss: [1296.257]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.684
+epoch 3, loss: [1288.1111]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.684
+epoch 4, loss: [1285.0145]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.683
+epoch 5, loss: [1283.3157]
+link_sign_prediction acc: 0.879, f1-micro: 0.879, f1-macro: 0.682
+epoch 6, loss: [1279.4486]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.685
+epoch 7, loss: [1282.046]
+link_sign_prediction acc: 0.879, f1-micro: 0.879, f1-macro: 0.685
+epoch 8, loss: [1281.868]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.682
+epoch 9, loss: [1282.2008]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.686
+epoch 10, loss: [1282.5881]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.683
+epoch 11, loss: [1281.9185]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.685
+epoch 12, loss: [1282.3932]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.687
+epoch 13, loss: [1281.886]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.688
+epoch 14, loss: [1282.9706]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 15, loss: [1278.7203]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.685
+epoch 16, loss: [1283.7861]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.684
+epoch 17, loss: [1281.1107]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 18, loss: [1282.8486]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 19, loss: [1279.5034]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.683
+epoch 20, loss: [1280.3007]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 21, loss: [1267.4662]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.693
+epoch 22, loss: [1272.5083]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 23, loss: [1272.9021]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 24, loss: [1268.793]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 25, loss: [1271.3597]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.687
+epoch 26, loss: [1269.6879]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.687
+epoch 27, loss: [1268.4943]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.688
+epoch 28, loss: [1270.1975]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 29, loss: [1270.5007]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.686
+epoch 30, loss: [1269.7255]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.688
+epoch 31, loss: [1273.9307]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.687
+epoch 32, loss: [1270.0826]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 33, loss: [1273.7163]
+link_sign_prediction acc: 0.879, f1-micro: 0.879, f1-macro: 0.686
+epoch 34, loss: [1271.2977]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 35, loss: [1271.7141]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.685
+epoch 36, loss: [1269.0864]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 37, loss: [1268.3032]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 38, loss: [1269.6978]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 39, loss: [1272.2858]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.688
+epoch 40, loss: [1268.4473]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 41, loss: [1257.6318]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 42, loss: [1260.742]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.685
+epoch 43, loss: [1260.3629]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 44, loss: [1262.5363]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.687
+epoch 45, loss: [1260.4279]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.691
+epoch 46, loss: [1262.5619]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.687
+epoch 47, loss: [1260.5363]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 48, loss: [1258.7101]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 49, loss: [1262.5204]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 50, loss: [1260.5304]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.686
+epoch 51, loss: [1260.243]
+link_sign_prediction acc: 0.879, f1-micro: 0.879, f1-macro: 0.686
+epoch 52, loss: [1260.1643]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 53, loss: [1259.3602]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.688
+epoch 54, loss: [1260.6646]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 55, loss: [1260.5062]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 56, loss: [1260.6804]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 57, loss: [1258.8832]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 58, loss: [1261.5798]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 59, loss: [1260.3142]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 60, loss: [1257.7966]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 61, loss: [1246.8359]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 62, loss: [1248.7509]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 63, loss: [1250.0845]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 64, loss: [1248.8076]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 65, loss: [1250.4921]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 66, loss: [1249.27]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 67, loss: [1246.5825]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 68, loss: [1250.044]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.693
+epoch 69, loss: [1251.8757]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.686
+epoch 70, loss: [1250.3759]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 71, loss: [1249.0275]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 72, loss: [1249.427]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 73, loss: [1249.3215]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 74, loss: [1249.7443]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 75, loss: [1252.0784]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 76, loss: [1248.1344]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.688
+epoch 77, loss: [1250.1172]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.692
+epoch 78, loss: [1250.4492]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 79, loss: [1249.7378]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 80, loss: [1249.5507]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 81, loss: [1239.318]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 82, loss: [1237.1095]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 83, loss: [1241.0786]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 84, loss: [1239.4846]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 85, loss: [1238.1743]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 86, loss: [1238.725]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 87, loss: [1240.4517]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 88, loss: [1240.7511]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 89, loss: [1241.5778]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 90, loss: [1236.7285]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 91, loss: [1239.3433]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 92, loss: [1240.4015]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.693
+epoch 93, loss: [1238.8481]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 94, loss: [1240.0592]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.691
+epoch 95, loss: [1240.496]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.689
+epoch 96, loss: [1238.6959]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.696
+epoch 97, loss: [1239.348]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 98, loss: [1240.061]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 99, loss: [1240.1332]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 100, loss: [1240.0763]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.696
+epoch 101, loss: [1225.6146]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 102, loss: [1227.1096]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 103, loss: [1231.0874]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 104, loss: [1230.4928]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.693
+epoch 105, loss: [1228.1232]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.692
+epoch 106, loss: [1228.532]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 107, loss: [1224.2856]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 108, loss: [1228.2023]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 109, loss: [1231.565]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 110, loss: [1230.5084]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 111, loss: [1229.4]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.689
+epoch 112, loss: [1231.4335]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 113, loss: [1227.9834]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.691
+epoch 114, loss: [1227.8483]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.689
+epoch 115, loss: [1228.4537]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.686
+epoch 116, loss: [1226.5715]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.692
+epoch 117, loss: [1227.1841]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 118, loss: [1231.1477]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 119, loss: [1229.5814]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 120, loss: [1228.7882]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.686
+epoch 121, loss: [1216.0883]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.695
+epoch 122, loss: [1218.2736]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 123, loss: [1218.8636]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 124, loss: [1218.9543]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 125, loss: [1219.0426]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 126, loss: [1221.7129]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 127, loss: [1219.579]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 128, loss: [1218.3184]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.697
+epoch 129, loss: [1222.1312]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.697
+epoch 130, loss: [1219.8833]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 131, loss: [1218.7404]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 132, loss: [1220.4192]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.692
+epoch 133, loss: [1219.537]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 134, loss: [1221.6089]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 135, loss: [1219.0345]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.688
+epoch 136, loss: [1221.8479]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 137, loss: [1219.9656]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 138, loss: [1218.8053]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 139, loss: [1220.3315]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.688
+epoch 140, loss: [1219.6171]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 141, loss: [1206.641]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.694
+epoch 142, loss: [1208.8973]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 143, loss: [1209.3995]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 144, loss: [1209.2886]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 145, loss: [1212.4648]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 146, loss: [1206.8704]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 147, loss: [1210.9806]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 148, loss: [1209.8768]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 149, loss: [1210.1166]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 150, loss: [1210.6942]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 151, loss: [1211.6259]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 152, loss: [1207.4586]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 153, loss: [1211.0101]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.691
+epoch 154, loss: [1210.7125]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.692
+epoch 155, loss: [1208.7468]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.693
+epoch 156, loss: [1208.9214]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.697
+epoch 157, loss: [1208.5199]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.696
+epoch 158, loss: [1209.5764]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 159, loss: [1209.4113]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 160, loss: [1208.835]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 161, loss: [1198.1654]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 162, loss: [1200.1403]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 163, loss: [1200.9255]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 164, loss: [1199.2886]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 165, loss: [1200.9335]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 166, loss: [1200.4393]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 167, loss: [1201.9569]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 168, loss: [1201.1964]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 169, loss: [1201.448]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 170, loss: [1200.0565]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 171, loss: [1201.1062]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 172, loss: [1199.3776]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 173, loss: [1198.7793]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 174, loss: [1199.6908]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 175, loss: [1198.146]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 176, loss: [1200.3544]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 177, loss: [1199.0106]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 178, loss: [1199.74]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 179, loss: [1200.5637]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 180, loss: [1197.8916]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 181, loss: [1189.02]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.698
+epoch 182, loss: [1190.891]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 183, loss: [1191.6162]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 184, loss: [1189.7104]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 185, loss: [1188.6908]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 186, loss: [1194.2598]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 187, loss: [1190.6143]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 188, loss: [1190.8953]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 189, loss: [1188.5123]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 190, loss: [1190.6168]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 191, loss: [1191.0208]
+link_sign_prediction acc: 0.880, f1-micro: 0.880, f1-macro: 0.693
+epoch 192, loss: [1191.0392]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.698
+epoch 193, loss: [1189.7424]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.697
+epoch 194, loss: [1190.5875]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.689
+epoch 195, loss: [1191.2426]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 196, loss: [1189.9568]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.690
+epoch 197, loss: [1188.5889]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.691
+epoch 198, loss: [1190.7979]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.690
+epoch 199, loss: [1192.2448]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.701
+epoch 200, loss: [1191.1895]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 201, loss: [1179.9852]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 202, loss: [1179.4358]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 203, loss: [1181.3457]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 204, loss: [1181.2117]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 205, loss: [1182.3688]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 206, loss: [1182.5897]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 207, loss: [1179.9006]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 208, loss: [1182.415]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 209, loss: [1182.4946]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 210, loss: [1181.1819]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 211, loss: [1181.9481]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 212, loss: [1181.1522]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.697
+epoch 213, loss: [1180.5846]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 214, loss: [1183.05]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 215, loss: [1181.4862]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 216, loss: [1181.9087]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 217, loss: [1181.1144]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.692
+epoch 218, loss: [1180.8181]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 219, loss: [1181.8197]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 220, loss: [1183.6415]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 221, loss: [1168.6115]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 222, loss: [1169.1019]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 223, loss: [1172.4141]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 224, loss: [1172.5094]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 225, loss: [1173.7725]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 226, loss: [1172.7286]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.696
+epoch 227, loss: [1170.8766]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 228, loss: [1172.1582]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 229, loss: [1173.7533]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 230, loss: [1172.7484]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 231, loss: [1171.7731]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 232, loss: [1173.0381]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 233, loss: [1172.8962]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.701
+epoch 234, loss: [1170.0638]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 235, loss: [1173.5663]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 236, loss: [1171.9772]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 237, loss: [1175.3981]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 238, loss: [1172.6317]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.698
+epoch 239, loss: [1173.1205]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.694
+epoch 240, loss: [1171.4033]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.695
+epoch 241, loss: [1161.6044]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 242, loss: [1160.9626]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 243, loss: [1164.0916]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 244, loss: [1162.6824]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 245, loss: [1163.0448]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 246, loss: [1163.9589]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 247, loss: [1165.1581]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 248, loss: [1162.278]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 249, loss: [1164.7716]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 250, loss: [1162.7452]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 251, loss: [1163.2771]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.698
+epoch 252, loss: [1163.766]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 253, loss: [1163.9923]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.693
+epoch 254, loss: [1165.0685]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 255, loss: [1162.7064]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 256, loss: [1164.8575]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 257, loss: [1159.9907]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.693
+epoch 258, loss: [1162.2902]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.693
+epoch 259, loss: [1163.5327]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 260, loss: [1161.4161]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 261, loss: [1151.1843]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.698
+epoch 262, loss: [1153.1079]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 263, loss: [1155.7992]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 264, loss: [1154.9479]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 265, loss: [1157.5769]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 266, loss: [1153.8646]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 267, loss: [1154.5521]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.697
+epoch 268, loss: [1154.657]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 269, loss: [1155.289]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.696
+epoch 270, loss: [1155.161]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 271, loss: [1152.6671]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 272, loss: [1157.6439]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 273, loss: [1153.1322]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 274, loss: [1154.2692]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 275, loss: [1154.5232]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 276, loss: [1155.1099]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.701
+epoch 277, loss: [1153.0216]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.696
+epoch 278, loss: [1154.8102]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 279, loss: [1155.1984]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 280, loss: [1155.1633]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 281, loss: [1145.274]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 282, loss: [1143.4729]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 283, loss: [1145.1364]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 284, loss: [1145.0426]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 285, loss: [1143.0469]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 286, loss: [1145.3661]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 287, loss: [1146.3955]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 288, loss: [1144.53]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 289, loss: [1145.171]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 290, loss: [1146.0618]
+link_sign_prediction acc: 0.881, f1-micro: 0.881, f1-macro: 0.694
+epoch 291, loss: [1145.9978]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 292, loss: [1144.5873]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.696
+epoch 293, loss: [1145.3678]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.701
+epoch 294, loss: [1144.4749]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 295, loss: [1148.33]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 296, loss: [1148.4988]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 297, loss: [1145.0745]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 298, loss: [1146.5295]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 299, loss: [1144.6918]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.694
+epoch 300, loss: [1146.3827]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 301, loss: [1135.201]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 302, loss: [1135.9354]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 303, loss: [1136.7826]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 304, loss: [1138.3813]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 305, loss: [1140.4924]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 306, loss: [1139.0033]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 307, loss: [1139.3927]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.696
+epoch 308, loss: [1135.659]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.703
+epoch 309, loss: [1138.5625]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 310, loss: [1137.8969]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.697
+epoch 311, loss: [1137.611]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 312, loss: [1139.9686]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 313, loss: [1138.0817]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 314, loss: [1137.431]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 315, loss: [1138.235]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 316, loss: [1138.2961]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 317, loss: [1138.8892]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 318, loss: [1138.0183]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.695
+epoch 319, loss: [1136.9769]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 320, loss: [1140.184]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.702
+epoch 321, loss: [1125.72]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 322, loss: [1126.7141]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 323, loss: [1129.4634]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.699
+epoch 324, loss: [1130.1858]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 325, loss: [1129.1437]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 326, loss: [1127.4624]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 327, loss: [1129.6279]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 328, loss: [1129.6615]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 329, loss: [1129.2302]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 330, loss: [1129.7224]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 331, loss: [1131.6376]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 332, loss: [1131.1588]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 333, loss: [1130.2462]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.698
+epoch 334, loss: [1129.8187]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 335, loss: [1130.5358]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.701
+epoch 336, loss: [1130.4912]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 337, loss: [1129.1648]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 338, loss: [1129.8605]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.697
+epoch 339, loss: [1131.3115]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.698
+epoch 340, loss: [1129.1427]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.702
+epoch 341, loss: [1118.7246]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 342, loss: [1120.7192]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 343, loss: [1120.0151]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 344, loss: [1120.8696]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 345, loss: [1121.0448]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 346, loss: [1122.6791]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 347, loss: [1120.2817]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.703
+epoch 348, loss: [1122.5289]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 349, loss: [1122.1956]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 350, loss: [1121.8854]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 351, loss: [1122.4187]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 352, loss: [1121.4176]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 353, loss: [1120.9587]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 354, loss: [1123.6161]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 355, loss: [1121.96]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 356, loss: [1120.1952]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 357, loss: [1120.5511]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 358, loss: [1122.0176]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 359, loss: [1123.0837]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 360, loss: [1122.3873]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 361, loss: [1111.1334]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 362, loss: [1112.4736]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 363, loss: [1114.9071]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 364, loss: [1110.6414]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 365, loss: [1112.5298]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 366, loss: [1116.9512]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 367, loss: [1113.7764]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 368, loss: [1114.4794]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 369, loss: [1114.2415]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 370, loss: [1113.7101]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 371, loss: [1116.4042]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 372, loss: [1115.134]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.703
+epoch 373, loss: [1113.279]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.698
+epoch 374, loss: [1112.4044]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 375, loss: [1113.0585]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.702
+epoch 376, loss: [1112.5211]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 377, loss: [1116.0201]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 378, loss: [1113.351]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 379, loss: [1113.9155]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.701
+epoch 380, loss: [1111.3561]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 381, loss: [1103.6567]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 382, loss: [1104.3005]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 383, loss: [1106.9556]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 384, loss: [1105.4346]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 385, loss: [1105.0216]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 386, loss: [1107.064]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 387, loss: [1109.2087]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.697
+epoch 388, loss: [1105.9115]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 389, loss: [1106.0841]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 390, loss: [1105.2596]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 391, loss: [1105.579]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 392, loss: [1106.2794]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 393, loss: [1105.5967]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 394, loss: [1106.6422]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 395, loss: [1109.2188]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 396, loss: [1105.6572]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 397, loss: [1106.2656]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 398, loss: [1107.6692]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 399, loss: [1103.42]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 400, loss: [1105.8398]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 401, loss: [1096.2163]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 402, loss: [1097.0646]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.700
+epoch 403, loss: [1099.4199]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 404, loss: [1098.7323]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 405, loss: [1095.876]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 406, loss: [1099.8942]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 407, loss: [1096.3632]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 408, loss: [1100.2402]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 409, loss: [1101.5876]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 410, loss: [1097.4437]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.702
+epoch 411, loss: [1099.8848]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 412, loss: [1099.5848]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 413, loss: [1099.157]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 414, loss: [1100.9332]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 415, loss: [1098.277]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 416, loss: [1097.5908]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 417, loss: [1098.7583]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 418, loss: [1098.2357]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 419, loss: [1097.2815]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 420, loss: [1100.8163]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 421, loss: [1088.5006]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 422, loss: [1088.5277]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 423, loss: [1090.5398]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 424, loss: [1091.2609]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 425, loss: [1090.3429]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 426, loss: [1092.3419]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 427, loss: [1091.8362]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.701
+epoch 428, loss: [1090.147]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 429, loss: [1091.6829]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 430, loss: [1089.7194]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 431, loss: [1093.0922]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 432, loss: [1090.5887]
+link_sign_prediction acc: 0.882, f1-micro: 0.882, f1-macro: 0.698
+epoch 433, loss: [1092.8787]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 434, loss: [1090.8777]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 435, loss: [1090.7115]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 436, loss: [1091.2799]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 437, loss: [1089.439]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 438, loss: [1089.1917]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 439, loss: [1090.2218]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 440, loss: [1091.9464]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 441, loss: [1082.7059]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.707
+epoch 442, loss: [1081.588]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 443, loss: [1080.8699]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 444, loss: [1084.9082]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 445, loss: [1082.7759]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 446, loss: [1083.1537]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 447, loss: [1082.8629]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 448, loss: [1082.6973]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 449, loss: [1085.0804]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 450, loss: [1084.0892]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 451, loss: [1082.5726]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 452, loss: [1083.2814]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 453, loss: [1084.9536]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 454, loss: [1083.5984]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 455, loss: [1086.0272]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.701
+epoch 456, loss: [1086.2292]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 457, loss: [1086.2345]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 458, loss: [1084.8754]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 459, loss: [1083.0514]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 460, loss: [1083.8867]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 461, loss: [1075.9684]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.706
+epoch 462, loss: [1073.7382]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 463, loss: [1074.505]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 464, loss: [1077.0679]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 465, loss: [1078.1976]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 466, loss: [1077.5267]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 467, loss: [1076.9072]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 468, loss: [1076.6167]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 469, loss: [1075.7778]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 470, loss: [1074.8647]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.706
+epoch 471, loss: [1079.2202]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 472, loss: [1077.0228]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 473, loss: [1075.6348]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 474, loss: [1077.4403]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.706
+epoch 475, loss: [1077.7048]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 476, loss: [1076.4506]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 477, loss: [1077.7709]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 478, loss: [1075.3077]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.703
+epoch 479, loss: [1076.4387]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 480, loss: [1077.2699]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 481, loss: [1067.0068]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 482, loss: [1067.9778]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 483, loss: [1067.9294]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 484, loss: [1069.6157]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 485, loss: [1070.2913]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 486, loss: [1071.2257]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 487, loss: [1068.2052]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 488, loss: [1068.8071]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 489, loss: [1073.0045]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 490, loss: [1068.3884]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 491, loss: [1071.0648]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 492, loss: [1070.4188]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 493, loss: [1070.3531]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 494, loss: [1068.2882]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 495, loss: [1069.7883]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 496, loss: [1072.7142]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.699
+epoch 497, loss: [1069.3406]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 498, loss: [1070.4053]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.704
+epoch 499, loss: [1068.5719]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.706
+epoch 500, loss: [1069.6492]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 501, loss: [1062.1125]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 502, loss: [1059.4226]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 503, loss: [1061.1207]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 504, loss: [1064.6489]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 505, loss: [1063.5508]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.703
+epoch 506, loss: [1061.1835]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.701
+epoch 507, loss: [1063.9973]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 508, loss: [1064.9255]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 509, loss: [1062.1405]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 510, loss: [1063.7448]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 511, loss: [1063.7502]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 512, loss: [1063.5513]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 513, loss: [1063.8179]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 514, loss: [1061.8821]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 515, loss: [1064.5298]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 516, loss: [1063.7289]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 517, loss: [1065.8112]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 518, loss: [1062.2198]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.706
+epoch 519, loss: [1065.777]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.703
+epoch 520, loss: [1063.8785]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 521, loss: [1053.2964]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.702
+epoch 522, loss: [1057.6173]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 523, loss: [1055.7147]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 524, loss: [1054.7058]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 525, loss: [1058.5183]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 526, loss: [1056.908]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 527, loss: [1056.5094]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 528, loss: [1056.757]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 529, loss: [1059.2389]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 530, loss: [1055.5538]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 531, loss: [1059.3138]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 532, loss: [1056.09]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 533, loss: [1056.3792]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 534, loss: [1055.844]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 535, loss: [1059.5239]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 536, loss: [1057.405]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 537, loss: [1057.4779]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 538, loss: [1056.8252]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 539, loss: [1056.7156]
+link_sign_prediction acc: 0.883, f1-micro: 0.883, f1-macro: 0.700
+epoch 540, loss: [1056.4822]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 541, loss: [1046.6984]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.707
+epoch 542, loss: [1049.7721]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 543, loss: [1049.5792]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 544, loss: [1048.8167]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 545, loss: [1049.21]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 546, loss: [1050.0082]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 547, loss: [1051.1937]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 548, loss: [1051.3713]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 549, loss: [1051.6736]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 550, loss: [1052.7002]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 551, loss: [1051.9185]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 552, loss: [1051.5773]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 553, loss: [1051.5332]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 554, loss: [1052.3159]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 555, loss: [1051.755]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 556, loss: [1052.2274]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 557, loss: [1050.1177]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 558, loss: [1048.7838]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 559, loss: [1049.4067]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 560, loss: [1050.549]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 561, loss: [1043.2665]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 562, loss: [1043.7587]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 563, loss: [1042.9487]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 564, loss: [1043.7772]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 565, loss: [1043.5117]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.701
+epoch 566, loss: [1044.6855]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 567, loss: [1042.3556]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 568, loss: [1046.7421]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 569, loss: [1043.8812]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 570, loss: [1046.2892]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 571, loss: [1044.1713]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 572, loss: [1044.7454]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 573, loss: [1044.4812]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 574, loss: [1045.6099]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 575, loss: [1043.0837]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 576, loss: [1044.9795]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 577, loss: [1044.7443]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 578, loss: [1043.4224]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 579, loss: [1044.5702]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 580, loss: [1044.9514]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 581, loss: [1036.271]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 582, loss: [1037.261]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 583, loss: [1035.3419]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 584, loss: [1035.6014]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 585, loss: [1036.7992]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 586, loss: [1039.074]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 587, loss: [1040.051]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 588, loss: [1037.3032]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 589, loss: [1037.902]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 590, loss: [1038.4955]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 591, loss: [1037.3606]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 592, loss: [1039.4252]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 593, loss: [1038.701]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 594, loss: [1037.8873]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 595, loss: [1037.7755]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 596, loss: [1037.8108]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 597, loss: [1037.6117]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 598, loss: [1040.261]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.703
+epoch 599, loss: [1039.1548]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 600, loss: [1037.7855]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 601, loss: [1030.7162]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 602, loss: [1031.1906]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 603, loss: [1030.5074]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 604, loss: [1030.4784]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 605, loss: [1032.6055]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 606, loss: [1032.5906]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 607, loss: [1033.6997]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.702
+epoch 608, loss: [1033.8705]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 609, loss: [1032.8446]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 610, loss: [1033.3612]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 611, loss: [1030.5413]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 612, loss: [1032.6753]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 613, loss: [1032.1302]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 614, loss: [1033.5989]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 615, loss: [1032.1351]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 616, loss: [1033.8293]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 617, loss: [1031.191]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 618, loss: [1032.7706]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 619, loss: [1032.825]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.706
+epoch 620, loss: [1030.2227]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 621, loss: [1024.4908]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 622, loss: [1024.2693]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 623, loss: [1025.3367]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 624, loss: [1025.497]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 625, loss: [1026.6007]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.705
+epoch 626, loss: [1025.8995]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 627, loss: [1027.323]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 628, loss: [1027.5696]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 629, loss: [1026.2405]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 630, loss: [1027.6624]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 631, loss: [1027.8345]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 632, loss: [1027.4648]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 633, loss: [1024.9668]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 634, loss: [1027.4784]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 635, loss: [1026.9197]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 636, loss: [1028.1292]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 637, loss: [1026.0342]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 638, loss: [1027.4755]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 639, loss: [1026.3087]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 640, loss: [1026.4761]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 641, loss: [1019.1589]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 642, loss: [1019.739]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 643, loss: [1020.19727]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 644, loss: [1019.17645]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 645, loss: [1019.15564]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 646, loss: [1019.4024]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 647, loss: [1021.28674]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 648, loss: [1020.5278]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 649, loss: [1020.1902]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 650, loss: [1021.6059]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 651, loss: [1020.34686]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 652, loss: [1022.1999]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.706
+epoch 653, loss: [1020.98926]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 654, loss: [1020.4796]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 655, loss: [1021.4047]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 656, loss: [1020.47546]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 657, loss: [1022.55524]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 658, loss: [1020.49524]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.706
+epoch 659, loss: [1020.9215]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 660, loss: [1020.7756]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 661, loss: [1012.1865]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 662, loss: [1014.1221]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 663, loss: [1015.1752]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 664, loss: [1013.6437]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 665, loss: [1013.5117]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 666, loss: [1015.119]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 667, loss: [1017.6514]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 668, loss: [1015.9303]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 669, loss: [1015.091]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 670, loss: [1015.99316]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 671, loss: [1014.3392]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.702
+epoch 672, loss: [1016.98236]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 673, loss: [1015.21967]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 674, loss: [1017.0569]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 675, loss: [1016.04816]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 676, loss: [1015.52454]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 677, loss: [1015.94836]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 678, loss: [1015.3691]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 679, loss: [1016.49084]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 680, loss: [1015.83]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 681, loss: [1006.5252]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 682, loss: [1006.90985]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 683, loss: [1009.65643]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 684, loss: [1010.9973]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 685, loss: [1007.54803]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 686, loss: [1012.2031]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 687, loss: [1008.3068]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 688, loss: [1012.60223]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 689, loss: [1011.61975]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 690, loss: [1010.6261]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 691, loss: [1009.95197]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 692, loss: [1012.45074]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 693, loss: [1011.4854]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 694, loss: [1008.9817]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 695, loss: [1011.9393]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 696, loss: [1011.51215]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 697, loss: [1012.51465]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 698, loss: [1011.88904]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 699, loss: [1010.9352]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 700, loss: [1010.2637]
+link_sign_prediction acc: 0.884, f1-micro: 0.884, f1-macro: 0.704
+epoch 701, loss: [1002.41846]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 702, loss: [1000.90704]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 703, loss: [1003.6693]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 704, loss: [1004.7653]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 705, loss: [1004.74243]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 706, loss: [1005.19275]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 707, loss: [1004.02313]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 708, loss: [1005.7963]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 709, loss: [1004.1312]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 710, loss: [1006.7732]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 711, loss: [1005.22253]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 712, loss: [1005.3284]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 713, loss: [1006.4722]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 714, loss: [1004.97644]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 715, loss: [1005.65625]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 716, loss: [1006.7618]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 717, loss: [1005.6486]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 718, loss: [1006.035]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 719, loss: [1005.75024]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 720, loss: [1007.61914]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 721, loss: [997.75037]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 722, loss: [999.18756]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 723, loss: [998.665]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 724, loss: [997.8397]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 725, loss: [999.39264]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 726, loss: [998.36334]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 727, loss: [1000.3973]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 728, loss: [1000.9946]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 729, loss: [1000.22534]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 730, loss: [1000.6297]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 731, loss: [1001.66296]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 732, loss: [1002.288]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 733, loss: [1000.2682]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 734, loss: [999.4032]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 735, loss: [1000.87225]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 736, loss: [1000.174]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 737, loss: [1000.35944]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 738, loss: [1000.60803]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 739, loss: [1001.0839]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 740, loss: [1000.9033]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 741, loss: [993.6455]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 742, loss: [993.55084]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 743, loss: [994.37775]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 744, loss: [996.0618]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 745, loss: [993.33563]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 746, loss: [995.89594]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 747, loss: [996.1317]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 748, loss: [995.6225]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 749, loss: [994.4043]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 750, loss: [994.87384]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 751, loss: [996.34576]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 752, loss: [993.7959]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 753, loss: [995.23975]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 754, loss: [996.1316]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 755, loss: [997.15356]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.704
+epoch 756, loss: [994.699]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 757, loss: [996.7991]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 758, loss: [997.23315]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 759, loss: [996.42865]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 760, loss: [995.9853]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 761, loss: [987.9062]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 762, loss: [989.3597]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 763, loss: [989.7692]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 764, loss: [989.42236]
+link_sign_prediction acc: 0.888, f1-micro: 0.888, f1-macro: 0.712
+epoch 765, loss: [990.9126]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 766, loss: [991.0903]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 767, loss: [988.9322]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 768, loss: [991.1915]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 769, loss: [989.4886]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 770, loss: [989.24536]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 771, loss: [990.2292]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 772, loss: [991.5415]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 773, loss: [991.12054]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 774, loss: [991.96454]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 775, loss: [991.53284]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 776, loss: [989.9932]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 777, loss: [990.94855]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 778, loss: [990.8141]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 779, loss: [991.4694]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 780, loss: [992.2939]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 781, loss: [986.29376]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 782, loss: [985.3261]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 783, loss: [982.9914]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 784, loss: [985.96136]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 785, loss: [984.1156]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 786, loss: [986.3465]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 787, loss: [984.76196]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 788, loss: [984.29834]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 789, loss: [984.9731]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 790, loss: [985.46277]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 791, loss: [987.8841]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 792, loss: [984.9979]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 793, loss: [986.149]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 794, loss: [986.78235]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 795, loss: [987.282]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 796, loss: [986.57733]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 797, loss: [984.69196]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 798, loss: [986.244]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 799, loss: [986.336]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 800, loss: [985.9804]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 801, loss: [979.1953]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 802, loss: [980.27704]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 803, loss: [980.0112]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 804, loss: [979.67426]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 805, loss: [981.3031]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 806, loss: [979.56635]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 807, loss: [980.87616]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 808, loss: [983.10614]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 809, loss: [979.6279]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 810, loss: [981.09]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 811, loss: [981.8364]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 812, loss: [980.7106]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 813, loss: [982.65967]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 814, loss: [981.46014]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 815, loss: [981.37006]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 816, loss: [981.12006]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 817, loss: [982.3106]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 818, loss: [980.6898]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 819, loss: [978.944]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 820, loss: [981.1082]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 821, loss: [975.63245]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 822, loss: [974.5029]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 823, loss: [976.8806]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 824, loss: [975.08215]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 825, loss: [975.6492]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 826, loss: [977.56866]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 827, loss: [977.3502]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 828, loss: [977.5603]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 829, loss: [975.9297]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 830, loss: [977.3914]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 831, loss: [976.8072]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 832, loss: [976.45844]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 833, loss: [976.0993]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 834, loss: [977.3515]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 835, loss: [979.2247]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 836, loss: [975.6897]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 837, loss: [976.6558]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 838, loss: [978.4771]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 839, loss: [977.6639]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 840, loss: [977.55414]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 841, loss: [971.57184]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 842, loss: [971.8794]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 843, loss: [970.53876]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 844, loss: [971.556]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 845, loss: [972.7543]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 846, loss: [972.0398]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 847, loss: [973.29407]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 848, loss: [974.19763]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 849, loss: [973.0671]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 850, loss: [971.88226]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 851, loss: [972.81134]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 852, loss: [973.5441]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 853, loss: [973.1954]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 854, loss: [973.6304]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.706
+epoch 855, loss: [974.26245]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 856, loss: [974.6614]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 857, loss: [974.18365]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 858, loss: [972.9705]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 859, loss: [972.7157]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 860, loss: [974.28613]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 861, loss: [967.22296]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 862, loss: [967.88153]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 863, loss: [967.5651]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 864, loss: [968.15826]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 865, loss: [967.686]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 866, loss: [967.62646]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 867, loss: [967.58905]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 868, loss: [968.7268]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 869, loss: [970.8686]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 870, loss: [968.9066]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 871, loss: [969.5367]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 872, loss: [968.74835]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 873, loss: [969.07745]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 874, loss: [969.73]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 875, loss: [969.2396]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 876, loss: [968.2571]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 877, loss: [971.2044]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 878, loss: [969.6677]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 879, loss: [970.4512]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 880, loss: [968.587]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 881, loss: [963.01263]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 882, loss: [963.0673]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 883, loss: [963.06824]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 884, loss: [964.2537]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 885, loss: [963.1254]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 886, loss: [965.38354]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 887, loss: [964.57654]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 888, loss: [964.61206]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 889, loss: [964.5532]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 890, loss: [964.5149]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 891, loss: [964.85846]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 892, loss: [965.1938]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 893, loss: [965.2713]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 894, loss: [966.33887]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 895, loss: [965.1761]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 896, loss: [964.70154]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 897, loss: [963.91876]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 898, loss: [965.2813]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 899, loss: [965.8036]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 900, loss: [964.72174]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 901, loss: [960.9152]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 902, loss: [958.0423]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 903, loss: [959.5889]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 904, loss: [959.71545]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 905, loss: [959.07007]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 906, loss: [959.9543]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 907, loss: [960.3848]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 908, loss: [960.5809]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 909, loss: [960.8078]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 910, loss: [960.7844]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 911, loss: [960.23914]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 912, loss: [962.6156]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.707
+epoch 913, loss: [961.7195]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 914, loss: [960.6915]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 915, loss: [960.13354]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 916, loss: [962.22424]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 917, loss: [960.90576]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 918, loss: [960.295]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 919, loss: [962.18976]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 920, loss: [960.5831]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 921, loss: [954.2567]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 922, loss: [954.70355]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 923, loss: [955.6555]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 924, loss: [956.2664]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 925, loss: [956.68005]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 926, loss: [956.29565]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 927, loss: [956.5322]
+link_sign_prediction acc: 0.888, f1-micro: 0.888, f1-macro: 0.716
+epoch 928, loss: [957.26904]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 929, loss: [956.7083]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 930, loss: [956.98236]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 931, loss: [956.89496]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 932, loss: [957.24274]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 933, loss: [958.5157]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 934, loss: [958.0785]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 935, loss: [958.0665]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 936, loss: [957.0797]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 937, loss: [958.58856]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 938, loss: [957.2832]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 939, loss: [958.32886]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 940, loss: [958.0685]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 941, loss: [951.80206]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 942, loss: [951.2804]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 943, loss: [951.504]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 944, loss: [951.7151]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 945, loss: [954.3962]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 946, loss: [952.64954]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 947, loss: [952.3607]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 948, loss: [953.9623]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 949, loss: [954.3089]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 950, loss: [952.9549]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 951, loss: [952.99457]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 952, loss: [952.1392]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 953, loss: [952.93365]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 954, loss: [953.6335]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 955, loss: [953.1854]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 956, loss: [952.9133]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 957, loss: [954.7945]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.705
+epoch 958, loss: [953.59796]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 959, loss: [953.4502]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.708
+epoch 960, loss: [954.9674]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 961, loss: [949.7401]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.715
+epoch 962, loss: [949.5329]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 963, loss: [947.24146]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 964, loss: [948.65045]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 965, loss: [949.42664]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 966, loss: [949.7273]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 967, loss: [949.53687]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 968, loss: [950.1374]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 969, loss: [949.3393]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 970, loss: [948.3616]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 971, loss: [950.7362]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 972, loss: [949.26337]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 973, loss: [949.3949]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 974, loss: [950.04987]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 975, loss: [950.2396]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 976, loss: [949.24194]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 977, loss: [949.6439]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 978, loss: [951.62573]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 979, loss: [949.36523]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 980, loss: [950.8814]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 981, loss: [944.2711]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 982, loss: [944.285]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 983, loss: [944.618]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 984, loss: [946.0698]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 985, loss: [946.2105]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 986, loss: [945.10016]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 987, loss: [945.71594]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 988, loss: [946.56885]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 989, loss: [945.3363]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 990, loss: [944.87256]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 991, loss: [946.32056]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 992, loss: [946.11346]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 993, loss: [945.83655]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 994, loss: [947.2073]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 995, loss: [946.488]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 996, loss: [946.01746]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 997, loss: [947.6124]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 998, loss: [946.97205]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 999, loss: [945.78955]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1000, loss: [947.35913]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.709
+epoch 1001, loss: [941.3318]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 1002, loss: [941.60486]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1003, loss: [941.3187]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1004, loss: [941.30835]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.715
+epoch 1005, loss: [942.0951]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1006, loss: [943.1737]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1007, loss: [941.30115]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1008, loss: [943.0147]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1009, loss: [943.54425]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1010, loss: [942.6798]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.710
+epoch 1011, loss: [942.62573]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1012, loss: [943.9781]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 1013, loss: [943.791]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1014, loss: [942.1716]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1015, loss: [942.6775]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1016, loss: [942.49896]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1017, loss: [942.7812]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1018, loss: [942.69836]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1019, loss: [943.80597]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1020, loss: [943.99445]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1021, loss: [939.66125]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1022, loss: [936.7182]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 1023, loss: [937.8576]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1024, loss: [938.3102]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1025, loss: [940.3192]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1026, loss: [938.3144]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1027, loss: [940.7299]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 1028, loss: [939.06213]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1029, loss: [940.06244]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 1030, loss: [940.17224]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1031, loss: [938.4304]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1032, loss: [938.76514]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1033, loss: [939.5979]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1034, loss: [941.16534]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1035, loss: [939.2389]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1036, loss: [940.02704]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1037, loss: [939.1753]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1038, loss: [939.5464]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1039, loss: [939.68896]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1040, loss: [940.1089]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1041, loss: [934.52985]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1042, loss: [933.9585]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1043, loss: [934.66614]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1044, loss: [935.5756]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1045, loss: [936.40936]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1046, loss: [936.5701]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1047, loss: [935.4564]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1048, loss: [934.915]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1049, loss: [935.3826]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1050, loss: [935.4441]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1051, loss: [936.53674]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1052, loss: [937.3119]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1053, loss: [934.7768]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1054, loss: [936.8231]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1055, loss: [935.25024]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1056, loss: [937.41534]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1057, loss: [936.5079]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1058, loss: [934.7392]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1059, loss: [936.7553]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1060, loss: [936.2861]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1061, loss: [932.1359]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1062, loss: [930.82684]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1063, loss: [932.4306]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.715
+epoch 1064, loss: [930.69543]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1065, loss: [931.07965]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1066, loss: [931.2894]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1067, loss: [932.38776]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1068, loss: [931.38]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1069, loss: [932.7423]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1070, loss: [933.2663]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1071, loss: [933.04047]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1072, loss: [932.5036]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1073, loss: [932.9936]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1074, loss: [933.9133]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1075, loss: [933.0708]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1076, loss: [932.8194]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1077, loss: [934.209]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1078, loss: [933.4024]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1079, loss: [933.7658]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1080, loss: [932.573]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1081, loss: [928.5994]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1082, loss: [928.2113]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1083, loss: [928.3711]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1084, loss: [928.6498]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1085, loss: [929.2792]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1086, loss: [928.70294]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 1087, loss: [929.71014]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1088, loss: [929.07794]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1089, loss: [930.0661]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1090, loss: [930.74493]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1091, loss: [930.3077]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1092, loss: [931.10144]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1093, loss: [929.861]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1094, loss: [930.2226]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1095, loss: [930.69904]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1096, loss: [930.8668]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1097, loss: [930.0674]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1098, loss: [931.11566]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 1099, loss: [929.9352]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1100, loss: [931.51514]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1101, loss: [926.3613]
+link_sign_prediction acc: 0.888, f1-micro: 0.888, f1-macro: 0.714
+epoch 1102, loss: [926.7266]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1103, loss: [926.6466]
+link_sign_prediction acc: 0.888, f1-micro: 0.888, f1-macro: 0.716
+epoch 1104, loss: [926.2677]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1105, loss: [926.04785]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1106, loss: [927.5352]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1107, loss: [925.3828]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.715
+epoch 1108, loss: [926.7208]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 1109, loss: [927.40283]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1110, loss: [928.24774]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1111, loss: [926.21704]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1112, loss: [926.12427]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1113, loss: [927.2687]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1114, loss: [927.7266]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1115, loss: [927.7257]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1116, loss: [927.7371]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1117, loss: [928.14124]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1118, loss: [927.23145]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1119, loss: [927.7241]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1120, loss: [927.91235]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1121, loss: [923.15955]
+link_sign_prediction acc: 0.888, f1-micro: 0.888, f1-macro: 0.714
+epoch 1122, loss: [923.34784]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1123, loss: [923.17786]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1124, loss: [922.1801]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1125, loss: [924.2178]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1126, loss: [924.10815]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1127, loss: [922.7265]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1128, loss: [924.04456]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1129, loss: [924.0627]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1130, loss: [923.8931]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1131, loss: [924.83844]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 1132, loss: [923.1416]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1133, loss: [924.2996]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1134, loss: [924.9148]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1135, loss: [923.9564]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1136, loss: [925.32385]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1137, loss: [924.03827]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1138, loss: [924.4421]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1139, loss: [925.4229]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1140, loss: [925.22815]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1141, loss: [920.3896]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1142, loss: [919.96216]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1143, loss: [919.889]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1144, loss: [921.50793]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1145, loss: [919.77875]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1146, loss: [921.2397]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1147, loss: [920.35693]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1148, loss: [920.4254]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1149, loss: [922.2422]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1150, loss: [920.19556]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1151, loss: [921.8256]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1152, loss: [921.8713]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1153, loss: [920.7871]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1154, loss: [921.54565]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1155, loss: [922.8087]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 1156, loss: [921.66833]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1157, loss: [922.55554]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1158, loss: [921.4756]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1159, loss: [920.9037]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1160, loss: [922.4905]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1161, loss: [916.45605]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1162, loss: [918.03015]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1163, loss: [916.4128]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1164, loss: [917.3868]
+link_sign_prediction acc: 0.888, f1-micro: 0.888, f1-macro: 0.713
+epoch 1165, loss: [917.05475]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1166, loss: [918.5145]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1167, loss: [918.3421]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1168, loss: [917.51996]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1169, loss: [918.2503]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1170, loss: [918.24146]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1171, loss: [918.4963]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1172, loss: [918.00446]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.715
+epoch 1173, loss: [918.922]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1174, loss: [918.0717]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1175, loss: [918.8127]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.715
+epoch 1176, loss: [917.9081]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1177, loss: [918.8762]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1178, loss: [918.6679]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1179, loss: [919.24554]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1180, loss: [918.2776]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1181, loss: [914.5027]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1182, loss: [915.8268]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 1183, loss: [915.4172]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1184, loss: [914.1405]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 1185, loss: [914.34534]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1186, loss: [916.70465]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1187, loss: [915.3807]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1188, loss: [915.9906]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1189, loss: [915.0885]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1190, loss: [916.18]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1191, loss: [915.31213]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1192, loss: [915.90875]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1193, loss: [915.44806]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1194, loss: [916.7112]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1195, loss: [916.59155]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1196, loss: [916.30347]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1197, loss: [914.7682]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1198, loss: [916.0355]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1199, loss: [916.11957]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1200, loss: [916.3499]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1201, loss: [911.294]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1202, loss: [912.3391]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1203, loss: [913.00244]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1204, loss: [912.7018]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1205, loss: [911.28394]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1206, loss: [911.3446]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1207, loss: [912.87445]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1208, loss: [912.6557]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1209, loss: [914.2955]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1210, loss: [913.02203]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1211, loss: [912.8376]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1212, loss: [912.9118]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1213, loss: [913.96954]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1214, loss: [913.6262]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1215, loss: [913.8187]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1216, loss: [913.7531]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1217, loss: [914.1043]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1218, loss: [913.3257]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 1219, loss: [913.7756]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1220, loss: [913.26746]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1221, loss: [909.8568]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1222, loss: [908.41644]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1223, loss: [909.8924]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1224, loss: [909.56665]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1225, loss: [910.66095]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.709
+epoch 1226, loss: [909.69495]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1227, loss: [909.48773]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1228, loss: [911.16064]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1229, loss: [910.03217]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1230, loss: [910.5019]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1231, loss: [910.13513]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 1232, loss: [910.3383]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1233, loss: [911.1135]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1234, loss: [911.08325]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1235, loss: [909.5489]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1236, loss: [911.15283]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1237, loss: [909.36005]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1238, loss: [910.3808]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1239, loss: [911.60333]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1240, loss: [911.43097]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1241, loss: [907.64233]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1242, loss: [907.5693]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1243, loss: [907.26276]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1244, loss: [906.9264]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1245, loss: [908.26715]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1246, loss: [907.4973]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1247, loss: [907.47723]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1248, loss: [908.12897]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1249, loss: [907.88214]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1250, loss: [907.68536]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1251, loss: [908.25397]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1252, loss: [908.8234]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1253, loss: [908.2595]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1254, loss: [908.6712]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1255, loss: [909.8954]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1256, loss: [908.4989]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1257, loss: [908.6962]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1258, loss: [908.131]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1259, loss: [908.5612]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1260, loss: [909.4311]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1261, loss: [905.4144]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1262, loss: [903.6616]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1263, loss: [903.98224]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1264, loss: [904.3625]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1265, loss: [903.9234]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1266, loss: [905.6319]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1267, loss: [905.76556]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1268, loss: [906.00946]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1269, loss: [905.2705]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1270, loss: [904.6212]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1271, loss: [906.1812]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1272, loss: [904.7818]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1273, loss: [905.93335]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1274, loss: [906.7224]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1275, loss: [905.9591]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1276, loss: [905.69855]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1277, loss: [906.6589]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1278, loss: [905.88916]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1279, loss: [905.6167]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1280, loss: [905.49817]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1281, loss: [902.8104]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1282, loss: [902.49646]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1283, loss: [902.48096]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1284, loss: [903.1373]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1285, loss: [903.1472]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1286, loss: [902.206]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1287, loss: [901.8107]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1288, loss: [902.5488]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1289, loss: [902.9032]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1290, loss: [902.8238]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1291, loss: [903.50446]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1292, loss: [901.4666]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1293, loss: [903.5626]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1294, loss: [903.3695]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1295, loss: [904.27454]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1296, loss: [902.80164]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1297, loss: [903.6985]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1298, loss: [904.3604]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1299, loss: [904.3901]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1300, loss: [903.6377]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1301, loss: [899.44025]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1302, loss: [900.2087]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1303, loss: [900.5188]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1304, loss: [898.50867]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1305, loss: [900.3356]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1306, loss: [901.75165]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1307, loss: [900.1671]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1308, loss: [900.7386]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1309, loss: [901.7681]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1310, loss: [899.537]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1311, loss: [901.58655]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1312, loss: [901.2271]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1313, loss: [901.37146]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1314, loss: [901.35315]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1315, loss: [901.10266]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1316, loss: [901.5396]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1317, loss: [901.66754]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1318, loss: [901.9197]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1319, loss: [901.3882]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1320, loss: [902.4208]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1321, loss: [898.06573]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1322, loss: [897.38]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1323, loss: [897.80426]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1324, loss: [897.10297]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1325, loss: [898.378]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1326, loss: [898.8175]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1327, loss: [898.36426]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1328, loss: [898.7679]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1329, loss: [898.44556]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1330, loss: [896.80884]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1331, loss: [898.4953]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1332, loss: [899.24225]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1333, loss: [898.93005]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1334, loss: [898.65106]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1335, loss: [898.7848]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1336, loss: [898.489]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1337, loss: [898.8604]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1338, loss: [899.74255]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1339, loss: [900.2084]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1340, loss: [898.6941]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1341, loss: [897.1535]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1342, loss: [895.31274]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1343, loss: [895.95074]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1344, loss: [895.34534]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1345, loss: [896.4776]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1346, loss: [896.1635]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1347, loss: [896.3517]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1348, loss: [896.9511]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1349, loss: [897.0709]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1350, loss: [897.3053]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1351, loss: [895.5114]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1352, loss: [896.3263]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1353, loss: [896.9937]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1354, loss: [897.3835]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1355, loss: [895.85803]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1356, loss: [896.2614]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1357, loss: [896.57355]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1358, loss: [897.0664]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1359, loss: [897.045]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1360, loss: [897.94183]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1361, loss: [894.31726]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1362, loss: [892.1867]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1363, loss: [894.1648]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1364, loss: [893.5383]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1365, loss: [894.27545]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1366, loss: [894.7962]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1367, loss: [894.1638]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1368, loss: [894.21844]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1369, loss: [894.0528]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1370, loss: [894.3095]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1371, loss: [894.54706]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1372, loss: [894.1945]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1373, loss: [894.2991]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1374, loss: [894.1676]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1375, loss: [894.0161]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1376, loss: [895.2175]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1377, loss: [893.66223]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1378, loss: [894.41724]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1379, loss: [895.32697]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1380, loss: [895.2002]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1381, loss: [892.63336]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1382, loss: [891.06165]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1383, loss: [891.3025]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1384, loss: [891.9822]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1385, loss: [892.42035]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1386, loss: [891.6836]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1387, loss: [892.1121]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1388, loss: [892.68384]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1389, loss: [892.9662]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1390, loss: [891.7978]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1391, loss: [892.9834]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1392, loss: [891.9019]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1393, loss: [892.3572]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1394, loss: [891.92865]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1395, loss: [892.6135]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 1396, loss: [893.38763]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1397, loss: [892.87335]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.715
+epoch 1398, loss: [893.5061]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1399, loss: [893.07294]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1400, loss: [892.2221]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1401, loss: [889.88837]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1402, loss: [888.7198]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1403, loss: [889.90045]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1404, loss: [890.3794]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1405, loss: [890.27637]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1406, loss: [889.5683]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1407, loss: [889.6076]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1408, loss: [890.4361]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1409, loss: [890.2623]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1410, loss: [890.8445]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1411, loss: [889.6216]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1412, loss: [890.7417]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1413, loss: [891.0008]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1414, loss: [889.87823]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1415, loss: [891.2157]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.710
+epoch 1416, loss: [891.24493]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.714
+epoch 1417, loss: [890.44775]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1418, loss: [891.62085]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1419, loss: [890.23065]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1420, loss: [891.2001]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1421, loss: [889.47675]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1422, loss: [888.6662]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1423, loss: [888.42065]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1424, loss: [887.577]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1425, loss: [887.82837]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1426, loss: [888.4633]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1427, loss: [887.99475]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1428, loss: [889.5485]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1429, loss: [887.682]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1430, loss: [888.5396]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1431, loss: [887.9284]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1432, loss: [888.8158]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1433, loss: [888.03735]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.713
+epoch 1434, loss: [888.9713]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1435, loss: [888.8162]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1436, loss: [888.11334]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1437, loss: [889.9504]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1438, loss: [888.8839]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1439, loss: [888.17645]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1440, loss: [889.1393]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1441, loss: [885.2696]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1442, loss: [885.9145]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1443, loss: [885.58075]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1444, loss: [886.46686]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1445, loss: [885.7385]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1446, loss: [885.7573]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1447, loss: [886.49585]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1448, loss: [886.7048]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1449, loss: [886.0684]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1450, loss: [886.14954]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1451, loss: [886.2181]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1452, loss: [886.5604]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1453, loss: [886.5574]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1454, loss: [885.8298]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1455, loss: [886.1059]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1456, loss: [887.3207]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1457, loss: [887.7167]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1458, loss: [886.4656]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1459, loss: [886.83954]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1460, loss: [887.1876]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1461, loss: [884.20825]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1462, loss: [883.6296]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1463, loss: [883.4371]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1464, loss: [884.121]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1465, loss: [884.2445]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1466, loss: [883.9971]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1467, loss: [883.75366]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1468, loss: [884.89813]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1469, loss: [884.05646]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1470, loss: [883.8361]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1471, loss: [884.9646]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1472, loss: [885.3715]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1473, loss: [884.9486]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1474, loss: [884.5466]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1475, loss: [884.47406]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1476, loss: [884.6118]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1477, loss: [884.13934]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1478, loss: [884.5337]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1479, loss: [884.81006]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1480, loss: [885.2227]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1481, loss: [882.8661]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1482, loss: [881.95013]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1483, loss: [881.21857]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1484, loss: [881.3294]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1485, loss: [882.42676]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1486, loss: [881.93024]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1487, loss: [882.2559]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1488, loss: [883.07654]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1489, loss: [881.64435]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1490, loss: [883.211]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
+epoch 1491, loss: [882.7631]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1492, loss: [882.9982]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 1493, loss: [883.2735]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1494, loss: [882.9242]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1495, loss: [882.9562]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1496, loss: [883.3993]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1497, loss: [883.17633]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1498, loss: [883.10126]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1499, loss: [882.7705]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1500, loss: [883.025]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1501, loss: [880.44934]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1502, loss: [879.78735]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1503, loss: [880.52185]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1504, loss: [879.7787]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1505, loss: [880.3621]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1506, loss: [880.6535]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.712
+epoch 1507, loss: [880.59875]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1508, loss: [880.19147]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1509, loss: [880.3485]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1510, loss: [881.0852]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1511, loss: [880.9074]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.708
+epoch 1512, loss: [880.4326]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1513, loss: [881.13873]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1514, loss: [881.46747]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1515, loss: [881.1127]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1516, loss: [880.4072]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1517, loss: [881.6906]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1518, loss: [881.58856]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.713
+epoch 1519, loss: [881.3739]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.711
+epoch 1520, loss: [881.25653]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1521, loss: [878.78284]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1522, loss: [877.9889]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1523, loss: [879.08527]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1524, loss: [878.9761]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1525, loss: [878.6855]
+link_sign_prediction acc: 0.885, f1-micro: 0.885, f1-macro: 0.707
+epoch 1526, loss: [878.67755]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.712
+epoch 1527, loss: [878.7379]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.710
+epoch 1528, loss: [878.246]
+link_sign_prediction acc: 0.886, f1-micro: 0.886, f1-macro: 0.709
+epoch 1529, loss: [878.8136]
+link_sign_prediction acc: 0.887, f1-micro: 0.887, f1-macro: 0.711
